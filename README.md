@@ -34,6 +34,3 @@ After installing the necessary dependencies and Tesseract OCR, you can run the s
 python extract_all_persian_pdf_to_word.py
 ```
 
----
-
-Make sure to replace `extract_all_persian_pdf_to_word.py` with the actual name of your Python script file.
